@@ -1,6 +1,6 @@
 const showButton = $('#show');
 const hideButton = $('#hide');
-const image = $('div');
+const image = $('#image-container');
 const title = $('h1');
 
 hideButton.on('click', () => {
